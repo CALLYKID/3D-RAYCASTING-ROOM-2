@@ -7,14 +7,14 @@ This project takes my original raycasting platformer further, with custom textur
 
 This has been my biggest update so far. I've spent **over 20 hours working on the project**, with almost **1,100 blocks of code** put into making everything work.
 
-## 🎮 How to Play
+##  How to Play
 
 - **WASD / Arrow Keys:** Move around the platform.
 - **Spacebar:** Jump over enemies.
 - **Collect all 10 stars:** Try to find every star while avoiding the enemies.
 - **Avoid enemies:** Touching an enemy triggers a red warning, so watch where you're going!
 
-## ✨ What's New in Part 2?
+##  What's New in Part 2?
 
 ### Custom Textures
 I've added custom textures to the raycasting environment to make the platforms look more detailed. Both platform sections have their own texture toggles, so you can experiment with different looks.
@@ -35,13 +35,13 @@ Once enabled, you can use the crosshair to look around, including pointing upwar
 ### Jumping and Enemy Interaction
 The player can now jump using the spacebar, making it possible to get over enemies instead of simply navigating around them. Touching an enemy also triggers a red warning, giving the player feedback when they make contact.
 
-## 🛠️ Built With
+##  Built With
 - **Scratch** — the main platform for the project.
 - **Raycasting techniques** — to create a 3D-style environment.
 - **Custom textures** — to improve the look of the platforms.
 - **Scratch block code** — almost 1,100 blocks powering the project.
 
-## 🙌 Credits
+##  Credits
 
 - **Griffpatch** — inspiration and guidance on raycasting physics.
 - **Pixabay** — music used in the project.
