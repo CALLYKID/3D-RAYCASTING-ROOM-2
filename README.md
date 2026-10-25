@@ -6,7 +6,7 @@ Controls: 
 
 * Movement: WASD or Arrow Keys
 * Jump: Spacebar
-* Objective: Collect all 10 stars while dodging enemies.
+* Objective: Collect all 10 STRAWBERRIES while dodging enemies.
 
 Major changes in this update: 
 
